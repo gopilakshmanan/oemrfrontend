@@ -1,0 +1,6 @@
+export { default as newpatient } from './NewEncounterForm'
+export { default as clinical_instructions } from './ClinicalInstructions'
+export { default as clinical_notes } from './ClinicalNotes'
+export { default as soap } from './SoapNotes'
+export { default as vitals } from './Vitals'
+export { default as four_o_four } from './FourOFour'
